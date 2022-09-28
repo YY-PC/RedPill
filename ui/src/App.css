@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.MuiToolbar-root{
+  background-color: #19194a;
+}
+
+#sidebar_icon{
+  color: white;
+}
